@@ -101,4 +101,4 @@ Inspired by the open source community.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/placeholder/footer-logo.png" width="120" alt="OSWeekend Logo" />
-</p>
+
