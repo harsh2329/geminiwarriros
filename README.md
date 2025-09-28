@@ -1,7 +1,7 @@
 # geminiwarriros
 # 🌟 Open Source Weekend — Gemini Warriors
 
-![OSWeekend Banner](https://user-images.githubusercontent.com/placeholder/banner.png)
+<img src="https://osd.opensourceweekend.org/_astro/OSDGreen.C2HHgllP.svg" alt="OSWeekend Banner" width="200"/>
 
 A stunning, production-ready hackathon website for **Open Source Weekend** — built with React, TypeScript, Tailwind CSS, and Lucide icons.  
 Empowering developers, fostering collaboration, and celebrating open source innovation.
@@ -100,5 +100,5 @@ Inspired by the open source community.
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/footer-logo.png" width="120" alt="OSWeekend Logo" />
+  <img src="https://osd.opensourceweekend.org/_astro/OSDGreen.C2HHgllP.svg" width="120" alt="OSWeekend Logo" />
 </p>
